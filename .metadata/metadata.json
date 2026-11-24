@@ -1,0 +1,11 @@
+{
+	"name":	"West Slavia",
+	"id":	"aga_west_slavia",
+	"version":	"1.0",
+	"supported_game_version":	"1.4.*",
+	"short_description":	"New formable faction.",
+	"tags":	[""],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}
